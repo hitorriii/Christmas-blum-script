@@ -5,8 +5,8 @@
 // @description  Blum script
 // @match        https://telegram.blum.codes/*
 // @grant        none
-// @downloadURL  https://github.com/hitorriii/Christmas-blum-script/raw/main/cch_blumScript.js
-// @updateURL    https://github.com/hitorriii/Christmas-blum-script/raw/main/cch_blumScript.js
+// @downloadURL  https://github.com/hitorriii/Christmas-blum-script/raw/main/cch_blumScript.user.js
+// @updateURL    https://github.com/hitorriii/Christmas-blum-script/raw/main/cch_blumScript.user.js
 // @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
 // ==/UserScript==
 
